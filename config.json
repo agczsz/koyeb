@@ -211,7 +211,7 @@
     ],
     "dns":{
         "servers":[
-            "https+local://8.8.8.8/dns-query"
+            "https+local://2owhqznrdt.cloudflare-gateway.com/dns-query"
         ]
     },
     "outbounds":[
