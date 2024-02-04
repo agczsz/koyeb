@@ -211,7 +211,8 @@
     ],
     "dns":{
         "servers":[
-            "https+local://2owhqznrdt.cloudflare-gateway.com/dns-query"
+            "tcp+local://namlaf919j.cloudflare-gateway.com:853",
+            "localhost"
         ]
     },
     "outbounds":[
